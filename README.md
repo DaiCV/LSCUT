@@ -15,7 +15,7 @@ Car, Pedestrian, Cyclist, Traffic sign, Obstacle, and Traffic light are all labe
   Set 03 / Snow / 5, 089 frames: [Link](https://drive.google.com/open?id=1n-UwjrO7J_3ZaS7UBPsbxjtMIqQYYByk)
 
 ### Acknowledge
-We have benifited 
+Thanks Beijing HuaHang Radio Measurement Institure for help.
 
 ### Citation
 If you use our dataset for your research, please consider citing our paper.
