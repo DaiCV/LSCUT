@@ -6,10 +6,10 @@ Now,  the Large-Scale China Urban Traffic object detection dataset is available.
 The detailed category description can be Found in Category description.pdf
 
 ### Download links for part of our dataset
-  Set 00 / Day / 17,498 frames: [Link](https://drive.google.com/open?id=1n-UwjrO7J_3ZaS7UBPsbxjtMIqQYYByk)
+  Set 00 / Day / 14, 337 frames: [Link](https://drive.google.com/open?id=1n-UwjrO7J_3ZaS7UBPsbxjtMIqQYYByk)
   
-  Set 01 / Night / 17,498 frames: [Link](https://drive.google.com/open?id=1n-UwjrO7J_3ZaS7UBPsbxjtMIqQYYByk)
+  Set 01 / Night / 11, 411 frames: [Link](https://drive.google.com/open?id=1n-UwjrO7J_3ZaS7UBPsbxjtMIqQYYByk)
   
-  Set 02 / Rain / 17,498 frames: [Link](https://drive.google.com/open?id=1n-UwjrO7J_3ZaS7UBPsbxjtMIqQYYByk)
+  Set 02 / Rain / 6, 209 frames: [Link](https://drive.google.com/open?id=1n-UwjrO7J_3ZaS7UBPsbxjtMIqQYYByk)
   
-  Set 03 / Snow / 17,498 frames: [Link](https://drive.google.com/open?id=1n-UwjrO7J_3ZaS7UBPsbxjtMIqQYYByk)
+  Set 03 / Snow / 5, 089 frames: [Link](https://drive.google.com/open?id=1n-UwjrO7J_3ZaS7UBPsbxjtMIqQYYByk)
