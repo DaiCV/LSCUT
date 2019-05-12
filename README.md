@@ -17,13 +17,13 @@ Car, Pedestrian, Cyclist, Traffic sign, Obstacle, and Traffic light are all labe
 ### Citation
 If you use our dataset for your research, please consider citing our paper.
 
-@inproceedings{CVPR15MultispectralPed,
+@inproceedings{dai19dszrnet,
 
 author = {Xuerui Dai, Xue Yuan, Liu Pei, and Xueye Wei},
 
 title = {Deeply Supervised Z-style Residual Network Devotes to Real-time Environment Perception for Autonomous Driving},
 
-booktitle = {CVPR},
+journal={IEEE Transactions on Intelligent Transportation Systems}
 
 year = {2019},
 
