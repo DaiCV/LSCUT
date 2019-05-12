@@ -8,7 +8,7 @@ Now,  the Large-Scale China Urban Traffic object detection dataset is available.
 Car, Pedestrian, Cyclist, Traffic sign, Obstacle, and Traffic light are all labeled. The detailed category description can be found in Category description.pdf
 
 ### Download links for part of our dataset
-  Set 00 / Day / 14, 337 frames: [Link](https://drive.google.com/open?id=1n-UwjrO7J_3ZaS7UBPsbxjtMIqQYYByk)
+  Set 00 / Day / 14, 337 frames: [Link](https://pan.baidu.com/s/1sPYM_fbubakAUcMVKBDrCw), Extracted code：hgd0 
   
   Set 01 / Night / 11, 411 frames: [Link](https://drive.google.com/open?id=1n-UwjrO7J_3ZaS7UBPsbxjtMIqQYYByk)
   
